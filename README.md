@@ -22,3 +22,5 @@ To learn more about techonologies, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 - [Learn Typescript](https://www.typescriptlang.org/docs) - an interactive Typescript tutorial.
 - [Learn Tailwind CSS](https://tailwindcss.com/docs) - an interactive Tailwind CSS tutorial.
+
+### This is deployed service URL: https://metaverse-portfolio.netlify.app/
